@@ -8,7 +8,8 @@
   - NoSQL
   - AWS PynamoDB
   - Redis/Valkey
-  - Diseño APIs REST & GraphQL 
+  - Diseño APIs REST & GraphQL
+     
 🌱 Actualmente aprendiendo:
   - React
   - Node.js  
