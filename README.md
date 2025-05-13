@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy [Yasmina]
+## ¡Hola! 👋 Soy Yasmina
 
 💻 Desarrollador especializado en [Python, Java, FastAPI, SQL,  NoSQL, AWS PynamoDB, Redis/Valkey, Diseño APIs REST & GraphQL]  
 🌱 Actualmente aprendiendo [React, Node.js]  
