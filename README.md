@@ -1,8 +1,18 @@
 ## ¡Hola! 👋 Soy Yasmina
 
-💻 Desarrollador especializado en [Python, Java, FastAPI, SQL,  NoSQL, AWS PynamoDB, Redis/Valkey, Diseño APIs REST & GraphQL]  
-🌱 Actualmente aprendiendo [React, Node.js]  
-📫 Puedes contactarme en: [yasminablanco71@gmail.com]  
+💻 Desarrolladora especializada en: 
+  - Python
+  - Java
+  - FastAPI
+  - SQL
+  - NoSQL
+  - AWS PynamoDB
+  - Redis/Valkey
+  - Diseño APIs REST & GraphQL 
+🌱 Actualmente aprendiendo:
+  - React
+  - Node.js  
+📫 Puedes contactarme en: yasminablanco71@gmail.com  
 🔭 Aquí encontrarás algunos de mis proyectos destacados:
 
 - [Nombre del proyecto 1](enlace) – Breve descripción.
