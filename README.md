@@ -1,35 +1,61 @@
-## ¡Hola! 👋 Soy Yasmina
 
-💻 Desarrolladora especializada en: 
-  - Python
-  - Java
-  - FastAPI
-  - SQL
-  - NoSQL
-  - AWS PynamoDB
-  - Redis/Valkey
-  - Diseño APIs REST & GraphQL
-     
-🌱 Actualmente aprendiendo:
-  - React
-  - Node.js  
-📫 Puedes contactarme en: yasminablanco71@gmail.com  
-🔭 Aquí encontrarás algunos de mis proyectos destacados:
+<h1 align="center">¡Hola! Soy Yasmina Blanco 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Engineer;Backend+%2B+Data;Building+Scalable+Data+Pipelines" />
+</p>
 
-- [Nombre del proyecto 1](enlace) – Breve descripción.
-- [Nombre del proyecto 2](enlace) – Breve descripción.
+---
 
-<!--
-**YasminaBlanco/YasminaBlanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Sobre mí
 
-Here are some ideas to get you started:
+Soy **Data Engineer** con orientación backend, enfocada en el diseño y desarrollo de **pipelines de datos eficientes, escalables y orientados a la toma de decisiones**. Me interesa construir soluciones de datos que conecten la información técnica con necesidades reales de negocio, priorizando la calidad, la automatización y la mantenibilidad de los sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cuento con experiencia en **procesamiento de datos, modelado y optimización de flujos**, así como en el acompañamiento y mentoría de estudiantes en Ingeniería de Datos. Abordo los problemas con una **mentalidad analítica** y una visión integral de los sistemas.
+
+---
+
+##  Mi trabajo como Data Engineer
+
+Trabajo en el desarrollo de **pipelines ETL/ELT**, procesamiento **batch** y **modelado analítico** de datos. Me enfoco en transformar datos crudos en información confiable y lista para el análisis, aplicando buenas prácticas de ingeniería, control de versiones y automatización.
+
+Disfruto diseñar **arquitecturas de datos claras**, optimizar consultas y flujos de procesamiento, y construir soluciones que puedan **escalar y mantenerse en el tiempo**.
+
+---
+
+##  Lo que quiero construir
+
+Quiero seguir construyendo **sistemas de datos robustos** que permitan a los equipos tomar mejores decisiones. Me interesan especialmente proyectos relacionados con:
+
+- Arquitecturas de datos escalables  
+- Automatización y orquestación de pipelines  
+- Modelado analítico orientado a negocio  
+- Soluciones de datos en entornos cloud  
+
+---
+
+##  Tecnologías y herramientas
+
+**Lenguajes**  
+Python | SQL  
+
+**Data Engineering**  
+Spark | DBT | Airflow  
+
+**Bases de datos**  
+PostgreSQL | MySQL  
+
+**Contenedores**  
+Docker  
+
+**Cloud**  
+AWS | GCP  
+
+**Control de versiones**  
+Git | GitHub  
+
+---
+
+## 📫 Contacto
+
+📧 **Email:** yasminablanco71@gmail.com  
+🐙 **GitHub:** https://github.com/YasminaBlanco
