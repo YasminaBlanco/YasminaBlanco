@@ -36,13 +36,13 @@ Quiero seguir construyendo **sistemas de datos robustos** que permitan a los equ
 ##  Tecnologías y herramientas
 
 **Lenguajes**  
-Python | SQL  
+Python | Java  | SQL
 
 **Data Engineering**  
-Spark | DBT | Airflow  
+Spark | DBT | Airflow
 
 **Bases de datos**  
-PostgreSQL | MySQL  
+PostgreSQL | MySQL  | DynamoDb
 
 **Contenedores**  
 Docker  
@@ -57,5 +57,4 @@ Git | GitHub
 
 ## 📫 Contacto
 
-📧 **Email:** yasminablanco71@gmail.com  
-🐙 **GitHub:** https://github.com/YasminaBlanco
+📧 **Email:** yasminablanco71@gmail.com
